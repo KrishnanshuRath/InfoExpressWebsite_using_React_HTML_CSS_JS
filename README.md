@@ -31,6 +31,5 @@
 
 1. **Sign Up / Log In**: Create an account or log in to access personalized news feeds.
 2. **Browse News**: Check news across different categories like Technology, Sports, Politics, etc.
-3. **Search Articles**: Use the search bar to find news articles based on keywords or topics.
-4. **Trending News**: View the latest trending topics on the homepage.
-5. **User Profile**: Manage your preferences and categories under your profile.
+3. **Trending News**: View the latest trending topics on the homepage.
+4. **User Profile**: Manage your preferences and categories under your profile.
