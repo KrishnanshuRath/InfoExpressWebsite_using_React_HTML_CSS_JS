@@ -24,8 +24,6 @@
   - MongoDB (for storing user data and preferences)
 - **External APIs**: 
   - News API (for fetching real-time news data)
-- **Authentication**: 
-  - JWT (JSON Web Tokens) for secure authentication
 
 ## How to Use
 
