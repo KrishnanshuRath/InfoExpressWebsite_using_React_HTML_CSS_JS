@@ -15,6 +15,7 @@
 
 - **Frontend**: 
   - React.js
+  - HTML5, CSS3 and JavaScript
   - Tailwind CSS (for styling)
 - **Backend**: 
   - Node.js
@@ -25,8 +26,6 @@
   - News API (for fetching real-time news data)
 - **Authentication**: 
   - JWT (JSON Web Tokens) for secure authentication
-- **Deployment**: 
-  - Hosted on **Heroku** (for easy deployment)
 
 ## How to Use
 
